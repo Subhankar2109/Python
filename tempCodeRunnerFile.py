@@ -1,0 +1,6 @@
+s1 = student()
+# s2 = student()
+# s1.getdata(1, 'Rahul')
+# s2.getdata(2, 'Raju')
+# s1.showdata()
+# s2.showdata()
